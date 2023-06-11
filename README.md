@@ -3,7 +3,9 @@
 I'm a software developer who has worked for the last 8 years in Ruby on Rails web development, focusing on server-side including API development plus some front-end development.
 
 ## Socials:
-(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/scotty-p-a9530a244/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/scottypeterson003) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/scottypeterson003) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/scotty-p-a9530a244/) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/scottypeterson003) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/scottypeterson003) 
 
 ## Software development Cycle:
 <img src="https://miro.medium.com/v2/resize:fit:2500/0*qZ1JOnVpPokvnr69.jpg" alt="scottypeterson003" />
